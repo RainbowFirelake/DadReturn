@@ -1,5 +1,7 @@
 # DadReturn
 
+Play now! https://itch.io/jam/eccentric-game-jam/rate/1879383
+
 ![image](https://github.com/RainbowFirelake/DadReturn/assets/45136883/bd1373f0-779d-401f-abe2-44a05684cd3c)
 
 DadReturn is story-driven humorous platformer which was created for a week during Eccentric Game Jam (Jan 2023)
